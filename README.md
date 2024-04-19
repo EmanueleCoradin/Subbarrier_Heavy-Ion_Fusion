@@ -16,4 +16,4 @@ Learn to use silicon and microchannel plate detectors, optimize setup, and condu
 - **Reports:** Project progress and findings.
 
 ### Contributors:
-Lorenzo Vincenzo D'Auria, Gabriele Delpiero.
+Lorenzo Vincenzo D'Auria, Gabriele del Piero.
