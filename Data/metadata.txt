@@ -1,0 +1,5 @@
+Gain =3
+
+Non compensato: Tau_pole_zero 50.0musec
+Compensato:     Tau_pole_zero 124.992 musec
+
