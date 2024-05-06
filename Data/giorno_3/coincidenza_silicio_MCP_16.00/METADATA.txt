@@ -1,0 +1,3 @@
+Sorgente 40KBq, singolo picco
+SDataR sono i dati grezzi, gli altri sono direttamente gli istogrammi.
+Gain 2., voltaggio Silicio 120V, finestra coicidenza 100mus.

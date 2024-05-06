@@ -1,0 +1,4 @@
+Sorgente 40KBq, singolo picco
+Segnale energia tagliato per gain troppo elevato.
+SDataR sono i dati grezzi, gli altri sono direttamente gli istogrammi.
+Gain 3., voltaggio Silicio 120V, finestra coicidenza 100mus.
